@@ -1,0 +1,11 @@
+{
+    "name": "MeowCoin",
+    "symbol": "MEOW",
+    "type": "BEP20",
+    "decimals": 0,
+    "description": "$MEOW is an ownership renounced community Defi Education token on the BSC based around a cat who’s actual name is Meow!",
+    "website": "https://www.meowcoin.app",
+    "explorer": "https://bscscan.com/token/0xBc8213d7701dF8ee6F8241aE48fD655471c47c3C",
+    "status": "active",
+    "id": "0xBc8213d7701dF8ee6F8241aE48fD655471c47c3C"
+}
